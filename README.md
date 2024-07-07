@@ -11,9 +11,10 @@ This hackathon is being held by Health Research From Home Partnership led by the
 
   - [Problem Description](files/problem.md)
   - [Skills You Will Need](files/skills.md)
-  - [Saturn Cloud Terms of Use](files/terms.md)
-  - [Setting up your Saturn Cloud account](files/setup.md)
-  - [Different ways of using Saturn Cloud](files/waysofworking.md)
+  - Do we need cloud server or using UoM server: <span style="color:red">TODO: Need to update</span>
+    - [Saturn Cloud Terms of Use](files/terms.md)
+    - [Setting up your Saturn Cloud account](files/setup.md)
+    - [Different ways of using Saturn Cloud](files/waysofworking.md)
 
 ## Contact
 
