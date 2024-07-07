@@ -11,13 +11,14 @@
 
 ## Instructors
 
+<span style="color:red">TODO: Name list?</span>
+
 The hackathon will be led by experienced instructors from HRfH:
 
 | Instructor                                                      | Affiliation |
 |-----------------------------------------------------------------|-------------|
 | [Will Dixon](https://www.linkedin.com/in/will-dixon-8686094a/)  | HRfH / UoM  |
 | [Shuai Shao](https://www.linkedin.com/in/shuai-shao-b632b3b6/)  | HRfH / UoM |
-<span style="color:red">TODO: Name list?</span>
 
 ## Internships
 
