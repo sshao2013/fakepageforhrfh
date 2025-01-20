@@ -7,8 +7,6 @@
 - Tackle difficult and important challenges in HRfH time series data
 - Generate reusable code
 
-- <span style="color:red">TODO: Full description</span>
-
 ## Instructors
 
 <span style="color:red">TODO: Name list?</span>
@@ -26,6 +24,8 @@ The hackathon will be led by experienced instructors from HRfH:
 
 
 ## Who should apply?
+
+- <span style="color:red">TODO: Participants Number</span>
 
 We aim to recruit 30 participants for an in-person session. The participants will include:
 

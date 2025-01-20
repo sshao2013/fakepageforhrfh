@@ -20,15 +20,12 @@ The hackathon will take place at University of Manchester between 7-9 May 2025.
 |      | 11:00      | 12:00    | Team Formation             |
 |      | 12:00      | 13:00    | Lunch                      |
 |      | 13:00      | 16:30    | Group Work                 |
-|Thu| 09:15      | 09:45    | Morning Huddle             |
-|| 09:45      | 12:00    | Group Work                 |
+|Thu| 09:45      | 12:00    | Group Work                 |
 |      | 12:00      | 13:00    | Lunch                      |
 |      | 13:00      | 16:30    | Group Work                 |
-|Fri| 09:15      | 09:45    | Morning Huddle             |
-|| 09:45      | 12:30    | Group Work + Submission    |
+|Fri| 09:45      | 12:30    | Group Work + Submission    |
 |      | 12:30      | 13:30    | Lunch                      |
-|      | 13:30      | 14:00    | Photos                     |
-|      | 14:00      | 16:00    | Results and Group Feedback |
+|      | 13:30      | 16:30    | Results and Group Feedback    |
 
 ## Venue
 
@@ -36,7 +33,7 @@ The hackathon will take place in the Pankhurst building at the University of Man
 
 ## Accommodation
 
-Participants will be expected to arrange their own accommodation during the hackathon unless otherwise arranged with HDRUK.
+Participants will be expected to arrange their own accommodation during the hackathon.
 
 ## Meals
 <span style="color:red">TODO: need to update!</span>
@@ -46,7 +43,6 @@ Participants will be expected to arrange their own accommodation during the hack
 For this hackathon, you will need:
 
 1. A personal laptop,
-2. Some basic stationery,
-3. Signed the HRfH Participation Agreement,
-4. (Optional) Access to your own university high-performance computing facilities.
+2. Signed the HRfH Participation Agreement,
+3. (Optional) Access to your own university high-performance computing facilities.
 
