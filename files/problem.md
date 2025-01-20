@@ -61,7 +61,7 @@ Before generating your final predictions on days 151–180, you have the option 
 
 ### The Challenge
 1. Train on the 800 fully observed patients.
-2. For each of the 200 test patients, request (or skip) selected days from the unobserved portion of their record (days 15–150).
+2. For each of the 200 test patients, request (or skip) selected days from the unobserved portion of their record (days 30–150).
 3. Forecast pain levels for the final 30 days (days 151–180).
 
 ### Evaluation
