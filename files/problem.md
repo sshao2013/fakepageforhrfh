@@ -32,12 +32,12 @@ More details will be provided during the hackathon.
 ### The Challenge
 
 
-1. Design a Simulation:
+#### Design a Simulation:
 
 - Introduce treatment dynamics—for example, a medication might reduce pain after 2 weeks, then fade in effectiveness over the next month.
 - Ensure each patient’s trajectory looks diverse yet realistic (no single pattern for all).
 
-2. Incorporate Variability: 
+#### Incorporate Variability: 
 - Account for the natural history of disease over time, including phases of improving strove and worsening symptoms, as well as short-term effects that may change gradually or more rapidly. Superimpose treatments and their corresponding responses. Finally, include random fluctuations to represent day-to-day changes.
 
 
