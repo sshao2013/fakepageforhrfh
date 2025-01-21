@@ -28,14 +28,14 @@ The hackathon will take place at Pankurst Building, University of Manchester bet
 
 ## Venue
 
-The hackathon will take place in the Pankhurst building at the University of Manchester.
+The hackathon will be held in the Christabel Pankhurst Building at the University of Manchester, located on Dover Street in Manchester (M13 9PS).
 
 ## Accommodation
 
 Participants will be expected to pay for and arrange their own accommodation during the hackathon. A limited number of bursaries maybe available.
 
 ## Meals
-Refreshments or lunch
+We will provide refreshments and lunch for all attendees each day of the hackathon. If you have any specific dietary requirements or allergies, please let us know in advance so we can make the necessary arrangements.
 
 
 ## What will I need to bring or arrange in advance?
