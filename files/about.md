@@ -6,10 +6,9 @@
 - Introduce this community to wider HRfH stakeholders – patients, clinicians, other HRfH researchers
 - Tackle difficult and important challenges in HRfH time series data
 - Generate reusable code
+- During the three days, you will work in small groups to address two challenges in the area of tracked daily symptoms for people living with long-term conditions.
 
 ## Instructors
-
-<span style="color:red">TODO: Name list?</span>
 
 The hackathon will be led by experienced instructors from HRfH:
 
@@ -25,18 +24,16 @@ The hackathon will be led by experienced instructors from HRfH:
 
 ## Who should apply?
 
-- <span style="color:red">TODO: Participants Number</span>
+We aim to recruit 20 participants for an in-person session. The participants will include:
 
-We aim to recruit 30 participants for an in-person session. The participants will include:
+Early career researchers (e.g., PhD students, postdoctoral researchers) from academic or industrial background specializing in health data research.
 
-1. Early career researchers (e.g., PhD students, postdoctoral researchers) specializing in health data research, and
-2. Health data scientists with a focus on research in healthcare or related fields.
 
 
 ## How much will it cost me to attend?
 
-Participants will be required to arrange their own transport and accommodation. A limited number of bursaries maybe available.
+There is no cost to participate, however, the participants will be required to pay for and arrange their own transport and accommodation. A limited number of bursaries maybe available.
 
 ## Cancellations
 
-If circumstances beyond our control lead to an event cancellation for any reason, any registration fees will be refunded. However, participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HRfH to refund any incurred costs if a cancellation occurs.
+The participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HRfH to refund any incurred costs if an unavoidable cancellation occurs.

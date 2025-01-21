@@ -4,11 +4,10 @@ The following is event information for registered participants.
 
 ## Dates
 
-The hackathon will take place at University of Manchester between 7-9 May 2025.
+The hackathon will take place at Pankurst Building, University of Manchester between 7-9 May 2025.
 
 
 ## Timetable
-<span style="color:red">TODO: need to update!</span>
 
 *Exact timings to be confirmed*
 
@@ -33,10 +32,10 @@ The hackathon will take place in the Pankhurst building at the University of Man
 
 ## Accommodation
 
-Participants will be expected to arrange their own accommodation during the hackathon.
+Participants will be expected to pay for and arrange their own accommodation during the hackathon. A limited number of bursaries maybe available.
 
 ## Meals
-<span style="color:red">TODO: need to update!</span>
+Refreshments or lunch
 
 
 ## What will I need to bring or arrange in advance?
@@ -44,5 +43,5 @@ For this hackathon, you will need:
 
 1. A personal laptop,
 2. Signed the HRfH Participation Agreement,
-3. (Optional) Access to your own university high-performance computing facilities.
+3. (Optional) Access to your own organization's high-performance computing facilities.
 
