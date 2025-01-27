@@ -1,6 +1,11 @@
 # Problem Background
 
-## Introduction
+## Problem Background
+Chronic pain management is a critical area of healthcare, where understanding the dynamics of patient-reported outcomes can significantly improve treatment planning and outcomes. However, collecting detailed, accurate data from patients is often time-intensive, costly, and challenging. Developing simulations and predictive models can help bridge this gap by creating synthetic datasets and improving forecasting methods, making it possible to optimize care without overburdening patients.
+
+This hackathon focuses on designing and testing innovative approaches to simulate and predict pain dynamics, incorporating real-world challenges such as treatment effects, variability in symptoms, and the constraints of sampling frequency. These tasks have practical relevance for building tools that support personalized care and decision-making in chronic pain management.
+
+Below are the two tasks for the hackathon:
 
 
 ## Task 1 Description: Simulation with Treatment Dynamics

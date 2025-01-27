@@ -11,6 +11,8 @@ This hackathon is being held by Health Research From Home Partnership led by the
 
   - [Problem Description](files/problem.md)
   - [Skills You Will Need](files/skills.md)
+  - Who should apply:
+    - We aim to recruit 20 participants for an in-person session. The participants will include: Early career researchers (e.g., PhD students, postdoctoral researchers) from academic or industrial background specializing in health data research.
   - What to Expect:
     - Networking opportunities with experts in ePGHD and related fields. 
     - Access to curated datasets and resources for hands-on experimentation. 
