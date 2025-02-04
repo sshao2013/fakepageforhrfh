@@ -1,6 +1,7 @@
 # Heath Research From Home Hackathon 2025
 
-This hackathon is being held by Health Research From Home Partnership led by the University of Manchester
+Interested in Health Data Research? Join the Health Research from Home Hackathon, hosted by the University of Manchester, to collaborate with fellow early-career researchers, tackle real-world challenges in health data research. Solve problems in teams, network with experts, work hands-on and win prizes!
+
 ## Contents
 
 **[About the Event](files/about.md)**: Learn about why we set up this event.
